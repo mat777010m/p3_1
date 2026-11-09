@@ -34,5 +34,14 @@ public class Main {
             }
             System.out.println();
         }
+        //Dodatkowe podejście nieszablonowe
+        System.out.println("*");
+        System.out.println("**");
+        System.out.println("* *");
+        System.out.println("*  *");
+        System.out.println("*   *");
+        System.out.println("*    *");
+        System.out.println("*******");
+
     }
 }
