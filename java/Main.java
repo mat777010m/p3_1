@@ -7,5 +7,14 @@ public class Main {
             }
             System.out.println();
         }
+        for (int i = 1; i <= 7; i++) {
+            for (int j = 0; j < 7 - i; j++) {
+                System.out.print(' ');
+            }
+            for (int j = 0; j < i; j++) {
+                System.out.print(z);
+            }
+            System.out.println();
+        }
     }
 }
